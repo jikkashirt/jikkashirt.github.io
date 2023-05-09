@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>JIKKA-SHO: the first year // JIKKA-SEI </title>
+        <link rel="stylesheet" href="../stylesheets/main.css">
+    </head>
+
+    <!--ARCHETYPE SIDEBAR-->
+    <div class = "sidenav">
+        <h1><i>jikkashirt</i></h1>
+        <img src="/images/8787_cafe_nagoya.jpg" alt="(matcha basque)" class="center"/>
+        <a href="https://jikkashirt.github.io"><u>home</u></a>
+        <a href="https://www.instagram.com/jikkashirt/" target = "_blank"><u>instagram</u></a>
+    </div>
+
+    <div class = "main">
+        <a href="https://jikkashirt.github.io"><u>JIKKA-SEI //</u></a>
+        <h1>JIKKA-SHO: the first year</h1>
+        <h2><i>into the groove.</i></h2>
+    </div>
+
+    <div class = "gallery">
+
+        <img src="../images/collections/jikka-sho/cpa.jpg" alt="CPA" class="center"/>
+        <p><i>cpa | usc | iphone xr 2.23.22 5p</i></p>
+
+        <img src="../images/collections/jikka-sho/column.jpg" alt="gateway column" class="center"/>
+        <p><i>gateway column | usc | iphone xr 3.5.22 2p</i></p>
+
+        <img src="../images/collections/jikka-sho/the twins.jpg" alt="roadblock objects" class="center"/>
+        <p><i>the twins</i></p>
+
+        <img src="../images/collections/jikka-sho/destination reached.jpg" alt="elevator" class="center"/>
+        <p><i>destination reached</i></p>
+
+        <img src="../images/collections/jikka-sho/3am.jpg" alt="jacarandas" class="center"/>
+        <p><i>jacarandas at 3 am</i></p>
+
+        <img src="../images/collections/jikka-sho/smbeach.jpg" alt="elevator" class="center"/>
+        <p>santa monica</p>
+
+        <img src="../images/collections/jikka-sho/santamonica.jpg" alt="beach" class="center"/>
+        <p><i>duck shirt jikkashirt</i></p>
+
+        <img src="../images/collections/jikka-sho/lt.jpg" alt="little tokyo" class="center"/>
+        <p>little tokyo</p>
+
+        <img src="../images/collections/jikka-sho/seifuan.jpg" alt="seifuan" class="center"/>
+        <p>seifu-an, huntington gardens, los angeles</p>
+
+        <img src="../images/collections/jikka-sho/moonreach.jpg" alt="moonreach" class="center"/>
+        <p><i>moonreach</i></p>
+
+        <img src="../images/collections/jikka-sho/courthouse.jpg" alt="beach" class="center"/>
+        <p><i>courthouse</i></p>
+
+        <img src="../images/collections/jikka-sho/lightsoff1.jpg" alt="lights out I" class="center"/>
+        <img src="../images/collections/jikka-sho/lightsoff2.jpg" alt="lights out II" class="center"/>
+        <p><i>lights out</i></p>
+
+    </div>
+
+    <div class = "footer">
+        <!--FOOTER-->
+        <h1><i>jikkashirt</i></h1>
+        <img src="../images/collections/jikka-sho/couch.jpg" class="center"/>
+
+        <a href="https://jikkashirt.github.io"><u>TOP</u></a>
+    </div>
+
+</html>
