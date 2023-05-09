@@ -54,8 +54,8 @@
 }
 
 .gallery img {
-    max-height: 75%;
-    max-width: 75%;
+    max-height: 85%;
+    max-width: 85%;
     padding-top: 10%;
     padding-bottom:30px;
 }
@@ -70,13 +70,13 @@
 }
 
 .footer {
-    margin-left: 240px;
+    margin-left: 25%;
     padding: 20px 50px;
 }
 
 .footer img {
-    max-height: 15%;
-    max-width: 15%;
+    max-height: 25%;
+    max-width: 25%;
     padding: 20px 20px;
 }
 
