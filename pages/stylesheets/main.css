@@ -47,6 +47,12 @@
     padding-bottom:20px;
 }
 
+
+.gallery {
+    padding: 20px;
+    margin-left: 240px;
+}
+
 .gallery img {
     max-width: 700px;
     max-height: 500px;
@@ -59,6 +65,26 @@
     text-decoration:none;
     text-align:center;
     font-size:18px;
+    color:black;
+    display: block;
+}
+
+.footer {
+    padding: 20px;
+    margin-left: 240px;
+    background-color:rgb(43, 43, 43);
+}
+
+.footer img {
+    max-height: 200px;
+    padding: 20px 20px;
+}
+
+.footer h1 {
+    padding: 6px 8px 6px 18px;
+    text-decoration:none;
+    text-align:center;
+    font-size:24px;
     color:black;
     display: block;
 }
