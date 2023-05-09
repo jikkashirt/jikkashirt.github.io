@@ -24,7 +24,7 @@
 
 .main a {
     padding: 6px 8px 6px 18px;
-    text-decoration:underline;
+    text-decoration:none;
     text-align:center;
     font-size:24px;
     color:black;
