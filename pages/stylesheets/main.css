@@ -54,8 +54,8 @@
 }
 
 .gallery img {
-    height: 75%;
-    width: auto;
+    max-height: 75%;
+    max-width: 75%;
     padding-top: 10%;
     padding-bottom:30px;
 }
