@@ -13,11 +13,20 @@
     display: block;
 }
 
+.main h2 {
+    padding: 6px 8px 6px 18px;
+    text-decoration:none;
+    text-align:center;
+    font-size:32px;
+    color:black;
+    display: block;
+}
+
 .main p {
     padding: 6px 8px 6px 18px;
     text-decoration:none;
     text-align:center;
-    font-size:24px;
+    font-size:18px;
     color:black;
     display: block;
 }
