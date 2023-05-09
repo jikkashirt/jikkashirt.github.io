@@ -49,7 +49,7 @@
 
 .gallery {
     padding: 20px;
-    margin-left: 240px;
+    margin-left: sidenav-width;
 }
 
 .gallery img {
@@ -155,5 +155,11 @@
 @media (max-width: 768px) {
     .sidenav {
         display: none;
+    }
+    .main {
+        margin-left: none;
+    }
+    .gallery {
+        margin-left: none;
     }
 }
