@@ -41,7 +41,7 @@
 }
 
 .main img {
-    max-height: 400px;
+    max-height: 33%;
     padding-top: 20px;
     padding-bottom:20px;
 }
@@ -55,7 +55,7 @@
 .gallery img {
     height: 75%;
     width: auto;
-    padding-top: 100px;
+    padding-top: 10%;
     padding-bottom:30px;
 }
 
