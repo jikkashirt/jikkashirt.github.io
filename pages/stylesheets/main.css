@@ -31,6 +31,12 @@
     display: block;
 }
 
+.main img {
+    max-width: 400px;
+    max-height: 500px;
+    padding: 20px 20px;
+}
+
 .sidenav {
     height: 100%;
     width: 240px;
