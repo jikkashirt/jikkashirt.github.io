@@ -85,7 +85,16 @@
     text-decoration:none;
     text-align:center;
     font-size:24px;
-    color:black;
+    color:#82c571;
+    display: block;
+}
+
+.footer a {
+    padding: 6px 8px 6px 18px;
+    text-decoration: none;
+    text-align:center;
+    font-size: 15px;
+    color: #82c571;
     display: block;
 }
 
