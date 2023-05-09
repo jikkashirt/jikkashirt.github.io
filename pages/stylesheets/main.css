@@ -35,15 +35,15 @@
     padding: 6px 8px 18px 6px;
     text-decoration:none;
     text-align:center;
-    font-size:20px;
+    font-size:24px;
     color:black;
     display: block;
 }
 
 .main img {
-    max-width: 700px;
-    max-height: 500px;
-    padding-top: 150px;
+    max-width: 500px;
+    max-height: 400px;
+    padding-top: 50px;
     padding-bottom:20px;
 }
 
