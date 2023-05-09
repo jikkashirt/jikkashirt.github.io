@@ -150,3 +150,9 @@
     margin-right: auto;
     width: 50%;
 }
+
+@media (max-width: 768px) {
+    #sidenav {
+        display: none;
+    }
+}
