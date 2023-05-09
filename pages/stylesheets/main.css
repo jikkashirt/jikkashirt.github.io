@@ -157,9 +157,9 @@
         display: none;
     }
     .main {
-        margin-left: none;
+        margin-left: 0px;
     }
     .gallery {
-        margin-left: none;
+        margin-left: 0px;
     }
 }
