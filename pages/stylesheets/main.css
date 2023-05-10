@@ -167,6 +167,9 @@
     .gallery {
         margin-left: 0px;
     }
+    .gallery img {
+        max-width: 80%;
+    }
     .footer {
         margin-left: 0px;
     }
