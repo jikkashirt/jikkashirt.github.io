@@ -173,4 +173,8 @@
     .footer {
         margin-left: 0px;
     }
+    .footer img {
+        max-width: 75%;
+        max-height: 75%;
+    }
 }
