@@ -51,7 +51,7 @@
 
 .gallery {
     padding: 20px;
-    margin-left: 25%;
+    margin-left: 20%;
 }
 
 .gallery img {
@@ -151,7 +151,6 @@
     display:block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
 }
 
 @media (max-width: 768px) {
@@ -163,8 +162,5 @@
     }
     .gallery {
         margin-left: 0px;
-    }
-    .center {
-        width: 75%;
     }
 }
