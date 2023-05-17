@@ -169,7 +169,7 @@
     }
     .gallery img {
         max-height: 70%;
-        max-width: 90%;
+        max-width: 100%;
     }
     .footer {
         margin-left: 0px;
