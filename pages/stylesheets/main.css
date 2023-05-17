@@ -166,6 +166,7 @@
     }
     .gallery {
         margin-left: 0px;
+        padding: 2%;
     }
     .gallery img {
         max-height: 70%;
