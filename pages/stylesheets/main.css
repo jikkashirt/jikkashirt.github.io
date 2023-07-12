@@ -25,8 +25,8 @@
 .main p {
     padding: 6px 8px 18px 6px;
     text-decoration:none;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 12%;
+    margin-right: 12%;
     word-wrap:normal;
     text-align:center;
     font-size:18px;
@@ -162,6 +162,10 @@
     }
     .main {
         margin-left: 0px;
+    }
+    .main p {
+        margin-left: 7%;
+        margin-right: 7%;
     }
     .main img {
         width: 80%;
