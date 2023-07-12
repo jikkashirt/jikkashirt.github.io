@@ -25,6 +25,7 @@
 .main p {
     padding: 6px 8px 18px 6px;
     text-decoration:none;
+    word-wrap:normal;
     text-align:center;
     font-size:18px;
     color:black;
