@@ -14,7 +14,7 @@
 }
 
 .main h2 {
-    padding: 6px 18px 18px 16px;
+    padding: 6px 8px 18px 6px;
     text-decoration:none;
     text-align:center;
     font-size:24px;
@@ -24,6 +24,7 @@
 
 .main p {
     padding: 6px 8px 18px 6px;
+    max-width: 80%;
     text-decoration:none;
     word-wrap:normal;
     text-align:center;
