@@ -42,6 +42,11 @@
     color:black;
     display: block;
 }
+.imghead {
+    height: auto;
+    width: 100%;
+    padding-bottom:20px;
+}
 
 .main img {
     height: 50%;
