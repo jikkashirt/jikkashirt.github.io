@@ -42,7 +42,7 @@
     color:black;
     display: block;
 }
-.imghead {
+.main .head img {
     height: auto;
     width: 100%;
     padding-bottom:20px;
