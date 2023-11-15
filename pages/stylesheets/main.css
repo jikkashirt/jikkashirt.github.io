@@ -1,8 +1,31 @@
 * {font-family: Courier;}
 
+.header {
+    background: url("../../images/collections/taizai/aoshima.jpg") fixed;
+    background-size: cover;
+    padding: 0px;
+    margin: 0px;
+    margin-left: 20%;
+    height: 100%;
+    width: auto;
+    max-width: 80%;
+    text-align: center;
+}
+
+.header h1 {
+    font-size:70px;
+    position: relative;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, 40%);
+    color:#82c571;
+
+}
+
 .main {
     padding: 20px;
     margin-left: 20%;
+    background-color: white;
 }
 
 .main h1 {
@@ -57,6 +80,8 @@
     height: auto;
     max-width: 80%;
     width: 100%;
+    position: fixed;
+    z-index: 1;
 }
 
 
@@ -197,5 +222,12 @@
     #imghead {
         margin-left: 0%;
         max-width: 100%;
+    }
+    .header {
+        margin-left:0%;
+        max-width: 100%
+    }
+    .header h1 {
+        font-size: 30px;
     }
 }
