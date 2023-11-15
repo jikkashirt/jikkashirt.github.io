@@ -55,7 +55,7 @@
 #imghead {
     margin-left: 20%;
     height: auto;
-    max-width: 100%;
+    max-width: 80%;
     width: 100%;
 }
 
@@ -196,5 +196,6 @@
     }
     #imghead {
         margin-left: 0%;
+        max-width: 100%;
     }
 }
