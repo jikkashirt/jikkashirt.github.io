@@ -4,9 +4,41 @@
     <title>JIKKA-SEI</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="/pages/stylesheets/main.css">
+
+    <style>
+        .header {
+            animation: fadeInAnimation ease 2.5s;
+            animation-iteration-count: 1;
+            animation-fill-mode: outwards;
+        }
+        @keyframes fadeInAnimation {
+           0% {
+                opacity: 0;
+           }
+           100% {
+                background-image: url("../../images/collections/taizai/aoshima.jpg");
+                opacity: 1;
+           }     
+        }
+
+        .sidenav {
+            animation: fadeInAnimation ease 2.5s;
+            animation-iteration-count: 1;
+            animation-fill-mode: outwards;
+        }
+        @keyframes fadeInAnimation {
+           0% {
+                opacity: 0;
+           }
+           100% {
+                opacity: 1;
+           }     
+        }
+
+    </style>
 </head>
 
-<body style="margin: 0;">
+<body style="background-color: #293317;">
     <!--ARCHETYPE SIDEBAR-->
     <div class = "sidenav">
         <h1><i>jikkashirt</i></h1>
