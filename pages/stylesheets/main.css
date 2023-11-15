@@ -1,4 +1,5 @@
 * {font-family: Courier;}
+
 .main {
     padding: 20px;
     margin-left: 20%;
@@ -42,11 +43,6 @@
     color:black;
     display: block;
 }
-.main .head img {
-    height: auto;
-    width: 100%;
-    padding-bottom:20px;
-}
 
 .main img {
     height: 50%;
@@ -54,6 +50,13 @@
     max-width: 75%;
     padding-top: 20px;
     padding-bottom:20px;
+}
+
+#imghead {
+    margin-left: 20%;
+    height: auto;
+    max-width: 100%;
+    width: 100%;
 }
 
 
@@ -190,5 +193,8 @@
     .footer img {
         max-width: 75%;
         max-height: 75%;
+    }
+    #imghead {
+        margin-left: 0%;
     }
 }
