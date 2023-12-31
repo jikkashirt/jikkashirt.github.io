@@ -185,11 +185,19 @@ body {
     padding: 10px 10px;
 }
 
+.vertical {
+    width:60%;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .center {
     display:block;
     margin-left: auto;
     margin-right: auto;
 }
+
 
 @media (max-width: 768px) {
     .sidenav {
@@ -231,5 +239,8 @@ body {
     }
     .header h1 {
         font-size: 30px;
+    }
+    .vertical {
+        width: 80%;
     }
 }
